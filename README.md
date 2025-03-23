@@ -77,3 +77,7 @@ int main() {
 ~~~
 
 OUTPUT :-
+
+![cp 1](https://github.com/user-attachments/assets/5d70ef13-fe09-433a-ab67-d1b17b971083)
+
+
